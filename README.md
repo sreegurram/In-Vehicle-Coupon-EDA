@@ -32,12 +32,6 @@ Users who have a Graduate degree (Masters or Doctorate) have the low coupon acce
 Most users in this data are Single or have Married partner.
 Acceptance ratio is high for Single users compared to others
 Acceptance ratio of the Bar coupons is high (52.887) for the usere who goes to bar 4 or more times in a given month
-Acceptance ratio of the Bar coupon compared between drivers who go to a bar more than once a month and are over the age of 25 to the all others. Is there a difference?
-	Acceptance ratio of the coupons is high (54.693%) for the usere who goes to bar 2 or more times and age > 25 in a given month comparing to the users with 1 or 	less bar visits for a month and are over 25 years (16.33%)
-	However, the acceptance ratio of the coupons is low (54.693%) for the usere who goes to bar 2 or more times and age > 25 in a given month comparing to the 	users with 2 or more bar visits for a month and are under 25 years (63.514%)
-Acceptance ratio of the Bar coupon compared between drivers who go to a bar more than once a month and are over the age of 25 to the all others. Is there a difference?
-	Acceptance ratio of the coupons is high (54.693%) for the usere who goes to bar 2 or more times and age > 25 in a given month comparing to the users with 1 or 	less bar visits for a month and are over 25 years (16.33%)
-	However, the acceptance ratio of the coupons is low (54.693%) for the usere who goes to bar 2 or more times and age > 25 in a given month comparing to the 	users with 2 or more bar visits for a month and are under 25 years (63.514%)
 The acceptance ratio of the coupons is slightly high (45.349%) for the usere who goes to cheaper restaurents > 4 times, with income < 50K, when compared to the users who goes to cheaper restaurents > 4 times, without Income based filter (43.409%)
 Bar coupon has a very low acceptance ratio.
 Most users in this data never visit a Bar.
