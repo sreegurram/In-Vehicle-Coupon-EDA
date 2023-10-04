@@ -9,7 +9,8 @@ After analyzing the provided dataset, I followed the data-cleaning process to cl
 
 # Observations:
 
-Total entries in the data set after data cleaning - 12610 with 23 columns.
+Total entries in the data set after data cleaning - 12610 with 23 columns
+
 56.757% of the total observations chose to accept the coupon.
 From all 5 coupon types, the maximum coupons acceptance rate is for Carry out & Take away and inexpensive Restaurant coupons.
 Most users go out in Sunny Whether have a high coupon acceptance ratio.
@@ -37,11 +38,6 @@ Acceptance ratio of the Bar coupon compared between drivers who go to a bar more
 Acceptance ratio of the Bar coupon compared between drivers who go to a bar more than once a month and are over the age of 25 to the all others. Is there a difference?
 	Acceptance ratio of the coupons is high (54.693%) for the usere who goes to bar 2 or more times and age > 25 in a given month comparing to the users with 1 or 	less bar visits for a month and are over 25 years (16.33%)
 	However, the acceptance ratio of the coupons is low (54.693%) for the usere who goes to bar 2 or more times and age > 25 in a given month comparing to the 	users with 2 or more bar visits for a month and are under 25 years (63.514%)
-Acceptance ratio of the Bar coupons is high (59.772%) for the usere who goes to bar 2 or more times with no passenger kid(s) and the marital status is not widowed, when compared to the users who goes to bar 1 or less times with no passenger kid(s) and the marital status is not widowed (19.699%)
-The acceptance ratio of the coupons is slightly low (59.772%) for the usere who goes to bar 2 or more times with no passenger kid(s) and the marital status is not widowed, when compared to the users who goes to bar 2 or more times, without filtering passenger type kids and marital status, widowed (56.946%)
-Acceptance ratio of the coupons is high (63.514) for the usere who goes to bar 2 or more times with age under 30, when compared to the users who goes to bar 1 or less times with age under 30 (28.365%)
-The acceptance ratio of the coupons is stil high (63.514%) for the usere who goes to bar 2 or more times with under age 30, when compared to the users who goes to bar 2 or more times, with over age 30 (54.693%)
-Acceptance ratio of the coupons is high (43.409%) for the usere who goes to cheaper restaurents > 4 times, when compared to the users who goes to to cheaper restaurents < 4 times (39.555%)
 The acceptance ratio of the coupons is slightly high (45.349%) for the usere who goes to cheaper restaurents > 4 times, with income < 50K, when compared to the users who goes to cheaper restaurents > 4 times, without Income based filter (43.409%)
 Bar coupon has a very low acceptance ratio.
 Most users in this data never visit a Bar.
