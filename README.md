@@ -74,3 +74,9 @@ From 7 AM to 6 PM, Coffee House coupon ask is maximum.
 At 10 AM, CoffeeHouse coupon acceptance rate is highest (64.031%).
 
 At 6 PM and 10 PM, users rejection ratio of CoffeeHouse coupon is high (58.9, 57.5%).
+
+### Recommendations and next steps
+Based on the above data insights, developing targeted coupon strategies for young, working individuals who seek food options after work could be a successful approach. Additionally, single users and those who frequently visit bars are more likely to accept bar coupons, which suggests that a targeted approach could also be effective in this demographic. These observations provide valuable information for developing future coupon strategies.
+
+#### Next steps -
+Further analysis of the data with a broader set could be very beneficial. At the moment, the data is limited by categorical demographics, such as age groups (e.g., most users are between 21 and 26 years of age). Combining datasets with utilization or "referral" sources may be helpful to provide a complementary approach to understanding an overall coupon strategy. 
